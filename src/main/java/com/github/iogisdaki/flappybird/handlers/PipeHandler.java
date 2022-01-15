@@ -1,10 +1,10 @@
-package com.github.iogisdaki.flappybirdnew.handlers;
+package com.github.iogisdaki.flappybird.handlers;
 
-import com.github.iogisdaki.flappybirdnew.main.Game;
-import com.github.iogisdaki.flappybirdnew.window.GameWindow;
-import com.github.iogisdaki.flappybirdnew.enums.PipeType;
-import com.github.iogisdaki.flappybirdnew.gameobjects.Bird;
-import com.github.iogisdaki.flappybirdnew.gameobjects.Pipe;
+import com.github.iogisdaki.flappybird.main.Game;
+import com.github.iogisdaki.flappybird.window.GameWindow;
+import com.github.iogisdaki.flappybird.enums.PipeType;
+import com.github.iogisdaki.flappybird.gameobjects.Bird;
+import com.github.iogisdaki.flappybird.gameobjects.Pipe;
 
 import java.awt.*;
 import java.util.LinkedList;

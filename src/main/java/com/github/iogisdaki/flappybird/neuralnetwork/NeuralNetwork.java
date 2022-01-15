@@ -1,4 +1,4 @@
-package com.github.iogisdaki.flappybirdnew.neuralnetwork;
+package com.github.iogisdaki.flappybird.neuralnetwork;
 
 // A simple vanilla neural net written in java.
 // It provides the ability of having multiple hidden layers and choosing the number of neurons per layer.

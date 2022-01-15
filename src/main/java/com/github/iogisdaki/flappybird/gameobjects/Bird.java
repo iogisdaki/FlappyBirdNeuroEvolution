@@ -1,10 +1,10 @@
-package com.github.iogisdaki.flappybirdnew.gameobjects;
+package com.github.iogisdaki.flappybird.gameobjects;
 
-import com.github.iogisdaki.flappybirdnew.enums.PipeType;
-import com.github.iogisdaki.flappybirdnew.neuralnetwork.NeuralNetwork;
-import com.github.iogisdaki.flappybirdnew.window.GameWindow;
-import com.github.iogisdaki.flappybirdnew.handlers.PipeHandler;
-import com.github.iogisdaki.flappybirdnew.loaders.ImageLoader;
+import com.github.iogisdaki.flappybird.enums.PipeType;
+import com.github.iogisdaki.flappybird.neuralnetwork.NeuralNetwork;
+import com.github.iogisdaki.flappybird.window.GameWindow;
+import com.github.iogisdaki.flappybird.handlers.PipeHandler;
+import com.github.iogisdaki.flappybird.loaders.ImageLoader;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;

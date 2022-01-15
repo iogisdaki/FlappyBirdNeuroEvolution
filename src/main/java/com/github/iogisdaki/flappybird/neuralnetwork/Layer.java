@@ -1,4 +1,4 @@
-package com.github.iogisdaki.flappybirdnew.neuralnetwork;
+package com.github.iogisdaki.flappybird.neuralnetwork;
 
 public class Layer {
     public Matrix neurons;

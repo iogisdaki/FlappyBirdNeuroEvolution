@@ -1,6 +1,6 @@
-package com.github.iogisdaki.flappybirdnew.window;
+package com.github.iogisdaki.flappybird.window;
 
-import com.github.iogisdaki.flappybirdnew.main.Game;
+import com.github.iogisdaki.flappybird.main.Game;
 
 import javax.swing.*;
 

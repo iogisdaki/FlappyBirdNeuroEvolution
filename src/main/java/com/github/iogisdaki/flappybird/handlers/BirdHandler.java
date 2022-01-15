@@ -1,7 +1,7 @@
-package com.github.iogisdaki.flappybirdnew.handlers;
+package com.github.iogisdaki.flappybird.handlers;
 
-import com.github.iogisdaki.flappybirdnew.gameobjects.Bird;
-import com.github.iogisdaki.flappybirdnew.main.Game;
+import com.github.iogisdaki.flappybird.gameobjects.Bird;
+import com.github.iogisdaki.flappybird.main.Game;
 
 import java.awt.*;
 

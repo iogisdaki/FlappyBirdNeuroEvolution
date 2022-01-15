@@ -1,4 +1,4 @@
-package com.github.iogisdaki.flappybirdnew.loaders;
+package com.github.iogisdaki.flappybird.loaders;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

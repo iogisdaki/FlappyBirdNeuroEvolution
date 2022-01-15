@@ -1,9 +1,9 @@
-package com.github.iogisdaki.flappybirdnew.main;
+package com.github.iogisdaki.flappybird.main;
 
-import com.github.iogisdaki.flappybirdnew.handlers.BirdHandler;
-import com.github.iogisdaki.flappybirdnew.handlers.PipeHandler;
-import com.github.iogisdaki.flappybirdnew.loaders.ImageLoader;
-import com.github.iogisdaki.flappybirdnew.window.GameWindow;
+import com.github.iogisdaki.flappybird.handlers.BirdHandler;
+import com.github.iogisdaki.flappybird.handlers.PipeHandler;
+import com.github.iogisdaki.flappybird.loaders.ImageLoader;
+import com.github.iogisdaki.flappybird.window.GameWindow;
 
 import java.awt.*;
 import java.awt.image.BufferStrategy;
